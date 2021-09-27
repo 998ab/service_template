@@ -155,6 +155,3 @@ cython_debug/
 #Windows make
 *.dll
 *.exe
-
-#Alembic
-*.mako
